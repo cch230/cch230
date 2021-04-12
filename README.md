@@ -15,7 +15,7 @@
 </a>
 <a href="https://cch230.github.io/Churani_portfolio/">
     <img 
-        src="http://img.shields.io/badge/Github-black?style=plastic&logo=Github&link=https://cch230.github.io/Churani_portfolio/?style=plastic"
+        src="http://img.shields.io/badge/Github.io-black?style=plastic&logo=Github&link=https://cch230.github.io/Churani_portfolio/?style=plastic"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
