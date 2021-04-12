@@ -8,7 +8,7 @@
         src="http://img.shields.io/badge/-Instagram-black?style=plastic&logo=Instagram&link=https://instagram.com/churani__/?style=plastic"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-a href="https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648">
+<a href="https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648">
     <img 
         src="http://img.shields.io/badge/Notion?style=plastic&logo=Instagram&link=https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648/?style=plastic"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
