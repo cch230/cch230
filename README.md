@@ -13,6 +13,11 @@
         src="http://img.shields.io/badge/Notion-333664?style=plastic&logo=notion&link=https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648/?style=plastic"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://cch230.github.io/Churani_portfolio/">
+    <img 
+        src="http://img.shields.io/badge/Github-black?style=plastic&logo=Github&link=https://cch230.github.io/Churani_portfolio/?style=plastic"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 [![Churani's GitHub stats](https://github-readme-stats.vercel.app/api?username=cch230)](https://github.com/anuraghazra/github-readme-stats)
 </p>
