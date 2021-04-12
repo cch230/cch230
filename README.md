@@ -28,5 +28,5 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/nCloud-333664?style=plastic&logo=nCloud&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/N-Cloud-333664?style=plastic&logo=NaverCloud&logoColor=white"/></a>&nbsp 
 </p>
