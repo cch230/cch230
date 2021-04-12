@@ -19,12 +19,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api?username=cch230">Churani's GitHub stats
-    <img 
-        src="https://github.com/anuraghazra/github-readme-stats"
-        />
-</a>
-
 
 [![Churani's GitHub stats](https://github-readme-stats.vercel.app/api?username=cch230)](https://github.com/anuraghazra/github-readme-stats)
 </p>
