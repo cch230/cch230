@@ -8,3 +8,6 @@
 </a>
 
 [![Seunghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cch230)](https://github.com/anuraghazra/github-readme-stats)
+
+### :cyclone: Languages
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)  ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=kotlin&logoColor=white)
