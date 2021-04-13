@@ -38,8 +38,8 @@
     </a>
     </br>
     </br>
-   <img src="https://raw.githubusercontent.com/buchaesal/buchaesal/main/profile-summary-card-output/default/0-profile-details.svg"/>
-   <img src="https://raw.githubusercontent.com/buchaesal/buchaesal/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg"/>
+   <img src="https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/default/0-profile-details.svg"/>
+   <img src="https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg"/>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
             src="https://github-readme-stats.vercel.app/api?username=cch230"/>
