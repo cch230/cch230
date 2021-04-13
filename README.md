@@ -1,23 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Cheolhwan_Choi&fontSize=70&animation=twinkling)
 <h3 align="center">Hi, I'm churani 👋</h3>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcch230&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false?style=plastic&"/></a>
-    <img src="https://img.shields.io/github/followers/cch230?label=Follow"/></a>&nbsp 
-<a href="https://instagram.com/churani__">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=plastic&logo=Instagram&link=https://instagram.com/churani__/?style=plastic"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648">
-    <img 
-        src="http://img.shields.io/badge/Notion-333664?style=plastic&logo=notion&link=https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648/?style=plastic"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://cch230.github.io/Churani_portfolio/">
-    <img 
-        src="http://img.shields.io/badge/Github.io-black?style=plastic&logo=Github&link=https://cch230.github.io/Churani_portfolio/?style=plastic"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+      <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcch230&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false?style=plastic&"/></a>
+        <img src="https://img.shields.io/github/followers/cch230?label=Follow"/></a>&nbsp 
+    <a href="https://instagram.com/churani__">
+        <img 
+            src="http://img.shields.io/badge/-Instagram-black?style=plastic&logo=Instagram&link=https://instagram.com/churani__/?style=plastic"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a href="https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648">
+        <img 
+            src="http://img.shields.io/badge/Notion-333664?style=plastic&logo=notion&link=https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648/?style=plastic"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a href="https://cch230.github.io/Churani_portfolio/">
+        <img 
+            src="http://img.shields.io/badge/Github.io-black?style=plastic&logo=Github&link=https://cch230.github.io/Churani_portfolio/?style=plastic"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 
 
 [![Churani's GitHub stats](https://github-readme-stats.vercel.app/api?username=cch230)](https://github.com/anuraghazra/github-readme-stats)
