@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/nCloud-1572B6?style=plastic&logo=Naver&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/nCloud-007396?style=plastic&logo=Naver&logoColor=Black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-OpenCV-black?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
 
 </p>
