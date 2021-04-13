@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Cheolhwan_Choi&fontSize=70&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=CheolHwan_Choi&fontSize=70&animation=twinkling"/>
 </br></p>
 <h3 align="center">Hi, I'm Churani 👋</h3>
 <p align="center">
