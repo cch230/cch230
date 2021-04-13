@@ -48,8 +48,7 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
-
+</br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
