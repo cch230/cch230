@@ -23,6 +23,10 @@
             src="https://img.shields.io/badge/Gmail-d14836?style=style=plastic&logo=Gmail&logoColor=white&link=mailto:cch01024857239@gmail.com"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img 
+            src="https://github-readme-stats.vercel.app/api?username=cch230"/>
+    </a>
 
 
 [![Churani's GitHub stats](https://github-readme-stats.vercel.app/api?username=cch230)](https://github.com/anuraghazra/github-readme-stats)
