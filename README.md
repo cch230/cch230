@@ -53,6 +53,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/N-NCloud-333664?style=plastic&logo=NaverCloud&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/OpenCV-ffb13b?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-OpenCV-black?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
 
 </p>
