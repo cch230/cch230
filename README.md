@@ -64,5 +64,5 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/nCloud-007396?style=plastic&logo=Naver&logoColor=Black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-OpenCV-black?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-OpenCV-FA7344?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
 </p>
