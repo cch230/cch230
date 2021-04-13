@@ -18,6 +18,11 @@
             src="http://img.shields.io/badge/Github.io-black?style=plastic&logo=Github&link=https://cch230.github.io/Churani_portfolio/?style=plastic"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
+    <a href="mailto:cch01024857239@gmail.com">
+        <img 
+            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cch01024857239@gmail.com?style=plastic"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 
 
 [![Churani's GitHub stats](https://github-readme-stats.vercel.app/api?username=cch230)](https://github.com/anuraghazra/github-readme-stats)
