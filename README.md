@@ -38,12 +38,12 @@
     </a>
     </br>
     </br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img src="https://raw.githubusercontent.com/buchaesal/buchaesal/main/profile-summary-card-output/nord_bright/0-profile-details.svg"/>
+   <img src="https://raw.githubusercontent.com/buchaesal/buchaesal/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg"/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
             src="https://github-readme-stats.vercel.app/api?username=cch230"/>
     </a>
-
-
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
