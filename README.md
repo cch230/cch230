@@ -58,11 +58,11 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1472B6?style=plastic&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=Black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/nCloud-007396?style=plastic&logo=Naver&logoColor=Black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/nCloud-007396?style=plastic&logo=Naver&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-OpenCV-FA7344?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
 </p>
