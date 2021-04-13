@@ -51,18 +51,18 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Kotlin-007396?style=plastic&logo=Kotlin&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Kotlin-4FC08D?style=plastic&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=plastic&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=plastic&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android-1572B6?style=plastic&logo=Android&logoColor=Black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1472B6?style=plastic&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=Black"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/nCloud-007396?style=plastic&logo=Naver&logoColor=Black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-OpenCV-black?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
 </p>
