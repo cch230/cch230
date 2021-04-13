@@ -27,7 +27,7 @@
     </a>
     <a href="https://www.youtube.com/channel/UCxK_-R9oGO7jr03SZ3De2GA">
         <img 
-            src="((https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCxK_-R9oGO7jr03SZ3De2GA"
+            src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCxK_-R9oGO7jr03SZ3De2GA"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
     <a href="mailto:cch01024857239@gmail.com">
