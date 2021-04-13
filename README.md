@@ -10,6 +10,12 @@
             src="http://img.shields.io/badge/-Instagram-black?style=plastic&logo=Instagram&link=https://instagram.com/churani__/?style=plastic"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
+    <a href="mailto:cch01024857239@gmail.com">
+        <img 
+            src="https://img.shields.io/badge/Gmail-d14836?style=style=plastic&logo=Gmail&logoColor=white&link=mailto:cch01024857239@gmail.com"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    </br>
     <a href="https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648">
         <img 
             src="http://img.shields.io/badge/Notion-333664?style=plastic&logo=notion&link=https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648/?style=plastic"
@@ -28,11 +34,6 @@
     <a href="https://www.youtube.com/channel/UCxK_-R9oGO7jr03SZ3De2GA">
         <img 
             src="https://img.shields.io/badge/Youtube-ff0000?style=plastic&logo=youtube&link=https://www.youtube.com/UCxK_-R9oGO7jr03SZ3De2GA"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
-    <a href="mailto:cch01024857239@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/Gmail-d14836?style=style=plastic&logo=Gmail&logoColor=white&link=mailto:cch01024857239@gmail.com"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
     </br>
