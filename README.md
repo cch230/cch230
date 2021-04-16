@@ -42,7 +42,7 @@
    <img src="https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/default/1-repos-per-language.svg"/>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
-            src="https://github-readme-stats.vercel.app/api?username=cch230"/>
+            src="https://github-readme-stats.vercel.app/api?username=cch230?title_color=#586E75&icon_color=#586E75&cache_seconds=1800"/>
     </a>
 </p>
 
