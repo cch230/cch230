@@ -26,7 +26,7 @@
         <img 
             src="http://img.shields.io/badge/Github.io-black?style=plastic&logo=Github&link=https://cch230.github.io/Churani_portfolio/?style=plastic"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
+    </a> 
     <a href="https://www.linkedin.com/in/cheolhwan-choi-6818aa1b7/">
         <img 
             src="https://img.shields.io/badge/-LinkedIn-blue?style=plastice&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheolhwan-choi-6818aa1b7/"
