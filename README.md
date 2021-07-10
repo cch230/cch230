@@ -1,6 +1,32 @@
 <p align="center">
 <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+  <style>
+      body {
+  background: #000;
+  background-size: 100%;
+  font-size: 200px;
+  font-family: 'Anton', sans-serif;
+}
 
+svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#text-copy {
+  stroke-width:6;
+  stroke:#32B6CC;
+  animation: stroke 2s infinite linear;
+}
+
+@keyframes stroke {
+  0% {stroke-width:6;}
+  50% {stroke-width:0;}
+  100% {stroke-width:6;}
+}
+
+      </style>
 <svg viewBox="0 0 1320 300">
 <defs>
   <pattern id="GPattern" x="0" y="0" width="20" height="20"
@@ -35,33 +61,7 @@
   
 </svg>
       
-      <style>
-      body {
-  background: #000;
-  background-size: 100%;
-  font-size: 200px;
-  font-family: 'Anton', sans-serif;
-}
-
-svg {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-}
-
-#text-copy {
-  stroke-width:6;
-  stroke:#32B6CC;
-  animation: stroke 2s infinite linear;
-}
-
-@keyframes stroke {
-  0% {stroke-width:6;}
-  50% {stroke-width:0;}
-  100% {stroke-width:6;}
-}
-
-      </style>
+    
 </br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230?tab=repositories" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;"></p>
 <h3 align="center">Hi, I'm Churani 👋</h3>
