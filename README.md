@@ -1,12 +1,5 @@
 <p align="center">
-<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
-<p class="codepen" data-height="300" data-slug-hash="KKmggwW" data-user="cch230" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/cch230/pen/KKmggwW">
-  </a> by churani (<a href="https://codepen.io/cch230">@cch230</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-    
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=CheolHwan_Choi&fontSize=70&animation=twinkling"/>
 </br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230?tab=repositories" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;"></p>
 <h3 align="center">Hi, I'm Churani 👋</h3>
