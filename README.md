@@ -1,5 +1,67 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=CheolHwan_Choi&fontSize=70&animation=twinkling"/>
+<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+
+<svg viewBox="0 0 1320 300">
+<defs>
+  <pattern id="GPattern" x="0" y="0" width="20" height="20"
+           patternUnits="userSpaceOnUse"
+           patternTransform="rotate(35)" >
+    <animateTransform attributeType="xml"
+                      attributeName="patternTransform"
+                      type="rotate" 
+                      from="35" 
+                      to="395" 
+                      begin="0"
+                      dur="160s" repeatCount="indefinite"/>
+    <circle cx="10" cy="10" r="10" stroke="none" fill="#0E284C">
+      <animate attributeName="r"
+               type="xml"
+               from="1" to="1"
+               values="1; 10; 1"
+               begin="0s" dur="2s"
+               repeatCount="indefinite"
+               />
+    </circle>
+  </pattern>
+</defs>
+
+
+  <symbol id="s-text">
+    <text text-anchor="middle" x="50%" y="50%" dy="0.35em">CHURANI</text>
+  </symbol>
+  
+
+<use xlink:href="#s-text" id="text-copy" style="fill: url(#GPattern)"></use>
+  
+</svg>
+      
+      <style>
+      body {
+  background: #000;
+  background-size: 100%;
+  font-size: 200px;
+  font-family: 'Anton', sans-serif;
+}
+
+svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#text-copy {
+  stroke-width:6;
+  stroke:#32B6CC;
+  animation: stroke 2s infinite linear;
+}
+
+@keyframes stroke {
+  0% {stroke-width:6;}
+  50% {stroke-width:0;}
+  100% {stroke-width:6;}
+}
+
+      </style>
 </br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230?tab=repositories" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;"></p>
 <h3 align="center">Hi, I'm Churani 👋</h3>
