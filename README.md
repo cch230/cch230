@@ -1,65 +1,10 @@
 <p align="center">
 <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
-  <style>
-      body {
-  background: #000;
-  background-size: 100%;
-  font-size: 200px;
-  font-family: 'Anton', sans-serif;
-}
-
-svg {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-}
-
-#text-copy {
-  stroke-width:6;
-  stroke:#32B6CC;
-  animation: stroke 2s infinite linear;
-}
-
-@keyframes stroke {
-  0% {stroke-width:6;}
-  50% {stroke-width:0;}
-  100% {stroke-width:6;}
-}
-
-      </style>
-<svg viewBox="0 0 1320 300">
-<defs>
-  <pattern id="GPattern" x="0" y="0" width="20" height="20"
-           patternUnits="userSpaceOnUse"
-           patternTransform="rotate(35)" >
-    <animateTransform attributeType="xml"
-                      attributeName="patternTransform"
-                      type="rotate" 
-                      from="35" 
-                      to="395" 
-                      begin="0"
-                      dur="160s" repeatCount="indefinite"/>
-    <circle cx="10" cy="10" r="10" stroke="none" fill="#0E284C">
-      <animate attributeName="r"
-               type="xml"
-               from="1" to="1"
-               values="1; 10; 1"
-               begin="0s" dur="2s"
-               repeatCount="indefinite"
-               />
-    </circle>
-  </pattern>
-</defs>
-
-
-  <symbol id="s-text">
-    <text text-anchor="middle" x="50%" y="50%" dy="0.35em">CHURANI</text>
-  </symbol>
-  
-
-<use xlink:href="#s-text" id="text-copy" style="fill: url(#GPattern)"></use>
-  
-</svg>
+ <iframe height="300" style="width: 100%;" scrolling="no" title="" src="https://codepen.io/cch230/embed/KKmggwW?default-tab=" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/cch230/pen/KKmggwW">
+  </a> by churani (<a href="https://codepen.io/cch230">@cch230</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
       
     
 </br>
