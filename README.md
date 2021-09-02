@@ -66,12 +66,6 @@
   <img src="https://img.shields.io/badge/nCloud-F2778B?style=plastic&logo=Naver&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-OpenCV-F0442E?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Firebase-C6B111?style=plastic&logo=Firebase&logoColor=white"/></a>&nbsp 
-</br></br>
-  <img src="https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/default/0-profile-details.svg"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=cch230&title_color=#86E75&icon_color=586E75&cache_seconds=1800"/>
-
-	
-  
 </br></br></br></br>
 </p>
   
