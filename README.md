@@ -50,22 +50,28 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Kotlin-4FC08D?style=plastic&logo=Kotlin&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1472B6?style=plastic&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-Node.js-007396?style=plastic&logo=Node.js&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/Python-99CE88?style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-14A36D?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Kotlin-70B2DC?style=plastic&logo=Kotlin&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-33B0C3?style=plastic&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-658AC5?style=plastic&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-4C33A0?style=plastic&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-ED8CAF?style=plastic&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android-F4C769?style=plastic&logo=Android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-Node.js-ADAEB0?style=plastic&logo=Node.js&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=plastic&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/nCloud-007396?style=plastic&logo=Naver&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-OpenCV-FA7344?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Firebase-FA7344?style=plastic&logo=Firebase&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-63565F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-F5B59A?style=plastic&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-BF7C3A?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/nCloud-F2778B?style=plastic&logo=Naver&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-OpenCV-F0442E?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-Firebase-C6B111?style=plastic&logo=Firebase&logoColor=white"/></a>&nbsp 
+</br></br>
+  <img src="https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/default/0-profile-details.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cch230&title_color=#86E75&icon_color=586E75&cache_seconds=1800"/>
 
+	
+  
+</br></br></br></br>
 </p>
   
