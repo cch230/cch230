@@ -41,7 +41,7 @@
     </br>
    <img src="https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/default/0-profile-details.svg"/>
    <img src="https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/default/1-repos-per-language.svg"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=cch230&title_color=586E75&icon_color=586E75&cache_seconds=100"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=cch230&title_color=0969DA&icon_color=586E75&cache_seconds=100"/>
 
 </p>
 
