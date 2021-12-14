@@ -50,7 +50,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-99CE88?style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-14A36D?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Kotlin-70B2DC?style=plastic&logo=Kotlin&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Kotlin-70B2DD?style=plastic&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-33B0C3?style=plastic&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-658AC5?style=plastic&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-4C33A0?style=plastic&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/nCloud-F2778B?style=plastic&logo=Naver&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-OpenCV-F0442E?style=plastic&logo=OpenCV&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Firebase-C6B111?style=plastic&logo=Firebase&logoColor=white"/></a>&nbsp 
-</br></br></br>
+</br></br> </br>
 </p>
   
+
