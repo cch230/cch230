@@ -1,8 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=CheolHwan_Choi&fontSize=70&animation=twinkling"/>
-</br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230?tab=repositories" style="display: block; object-fit: cover; border-radius: 1px; width: 100px; pointer-events: auto;"></p>
-<h3 align="center">Hi, I'm Churani 👋</h3>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230?tab=repositories" style="display: block; object-fit: cover; border-radius: 1px; width: 100px; pointer-events: auto;">
+<h3 align="center">Hi, I'm Churani 👋</h3></p>
 <p align="center">
       <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcch230&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false?style=plastic&"/></a>
         <img src="https://img.shields.io/github/followers/cch230?label=Follow"/></a>
