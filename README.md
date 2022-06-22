@@ -46,7 +46,7 @@
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-</br></br>
+</br>
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-99CE88?style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-14A36D?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
