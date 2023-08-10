@@ -16,7 +16,7 @@
             src="https://img.shields.io/badge/Gmail-d14836?style=style=plastic&logo=Gmail&logoColor=white&link=mailto:cch01024857239@gmail.com"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
-    </br>
+    </br> 
     <a href="https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648">
         <img 
             src="http://img.shields.io/badge/Notion-333664?style=plastic&logo=notion&link=https://www.notion.so/puffinable/b92735dec5584b2d91ed8ac6c4737648/?style=plastic"
