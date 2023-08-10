@@ -41,7 +41,7 @@
     </br>
    <img src="https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/default/0-profile-details.svg"/>
    <img src="https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/default/1-repos-per-language.svg"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=cch230&line_height=31&hide=contribs&title_color=586E75&icon_color=586E75&include_all_commits=true&count_private=true&show_icons=true"/> 
+   <img src="https://github-readme-stats.vercel.app/api?username=cch230&line_height=31&hide=contribs&title_color=586E75&icon_color=586E75&include_all_commits=true&count_private=true&show_icons=true&disable_animations=true"/> 
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
