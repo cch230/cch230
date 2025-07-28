@@ -15,10 +15,20 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/slateorange/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/slateorange/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/slateorange/4-productive-time.svg)
 ```
 
     

@@ -15,10 +15,20 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/radical/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/radical/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/radical/4-productive-time.svg)
 ```
 
     
