@@ -25,20 +25,20 @@
 
 ---
 
-![](./1-repos-per-language.svg)
+![](./2-most-commit-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/date_night/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/date_night/2-most-commit-language.svg)
 ```
 
     
 
 ---
 
-![](./2-most-commit-language.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/date_night/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/date_night/3-stats.svg)
 ```
 
     

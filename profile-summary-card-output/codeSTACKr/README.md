@@ -25,20 +25,20 @@
 
 ---
 
-![](./1-repos-per-language.svg)
+![](./2-most-commit-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)
 ```
 
     
 
 ---
 
-![](./2-most-commit-language.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/cch230/cch230/main/profile-summary-card-output/codeSTACKr/3-stats.svg)
 ```
 
     
